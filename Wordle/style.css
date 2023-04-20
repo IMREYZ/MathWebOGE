@@ -1,0 +1,30 @@
+.body{
+    text-align: center;
+    font-family: 'PT Serif', serif;
+}
+
+button, input, header{
+    font-family: 'PT Serif', serif;
+}
+
+.inputLetter{
+    width: 30px;
+}
+
+
+
+a {
+    text-decoration:none;
+}
+
+.gray{
+    background-color: gray;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: greenyellow;
+}
