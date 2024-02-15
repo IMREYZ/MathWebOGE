@@ -1,0 +1,89 @@
+.body{
+    text-align: center;
+    font-family: 'PT Serif', serif;
+}
+
+
+.inputAddress{
+    width: 80px;
+    position: relative;
+    right: 50px;
+}
+
+.inputPayment{
+    width: 50px;
+    
+}
+
+.inputPension{
+    width: 60px;
+    position: relative;
+    left: 0px;
+}
+
+.paymentContainer{
+    position: relative;
+    left: 50px;
+}
+
+.addressName{
+    position: relative;
+    right: 240px;
+}
+
+.pensionName{
+    position: relative;
+    right: 170px;
+}
+
+.gircName{
+    position: relative;
+    right: 25px;
+}
+
+.gircSigma{
+    position: relative;
+    left: 140px;
+}
+
+.sigma{
+    position: relative;
+    left: 185px;
+}
+
+.resultGIRC{
+    margin-left: 120px;
+    background-color: rgb(222, 222, 222);
+    width: 50px;
+    
+}
+
+.resultAll{
+    margin-left: 20px;
+    background-color: rgb(222, 222, 222);
+    width: 60px;
+}
+
+.cont{
+    margin-top: 5px;
+}
+
+.showResult{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.count{
+    width: 30px;
+}
+
+.countContainer{
+    position: relative;
+    right: 70px;
+}
+
+.buttons{
+    position: relative;
+    right: 170px;
+}

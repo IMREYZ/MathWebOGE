@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79c24b4a-a3e1-4cc2-95f5-a78089a11fd2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/MathWeb" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/JS/Base.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/Base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/JS/ChangeLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/ChangeLayout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/JS/CurrProblem.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/CurrProblem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/JS/CurrSubject.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/CurrSubject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/JS/DaysBeforeExam.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/DaysBeforeExam.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/JS/EndVariant.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/EndVariant.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/JS/Render.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/Render.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/JS/SaveProblem.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/SaveProblem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/JS/Stress.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/Stress.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/JS/Time.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/Time.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/JS/ViewingVariant.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/ViewingVariant.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/img/11.90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/img/11.91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/img/11.92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/img/11.93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/img/11.94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wordle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Wordle/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TL4ugROzpIWOSgEerhL3fLXeOY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/ITMO/kege/webium1.py"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.webium1">
+    <configuration name="14_sh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Desktop/ITMO/kegePrac" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Desktop/ITMO/kegePrac/14_sh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="webium1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Desktop/ITMO/kege" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Desktop/ITMO/kege/webium1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.webium1" />
+        <item itemvalue="Python.14_sh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79c24b4a-a3e1-4cc2-95f5-a78089a11fd2" name="Changes" comment="" />
+      <created>1690809250256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690809250256</updated>
+    </task>
+    <servers />
+  </component>
+</project>

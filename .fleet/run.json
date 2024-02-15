@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "jest",
+            "name": "Jest configuration",
+            "file": "~/",
+        },
+        
+    ]
+}

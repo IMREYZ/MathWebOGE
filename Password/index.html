@@ -4,21 +4,20 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/Password/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=PT+Serif&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/Wordle/style.css">
-    <title>Wordle</title>
+    <title>Document</title>
 </head>
-<body class="body">
-    <h4 class="headName"> Игра Wordle</h4>
 
-    <a href="/Wordle/play.html">
-        <button class="playGame"> НАЧАТЬ ИГРАТЬ </button>
-    </a>
+<body>
+    <h3> Загадай пароль!</h3>
 
-    
-    <script src='functions.js'></script>
-    <script src='index.js'></script>
+    <input id="inputPassword" type="text">
+
+    <div id="containerRules"></div>
 </body>
+    <script src="App.js" type="module"></script>
+    <script src="Rules.js" type="module"></script>
 </html>
