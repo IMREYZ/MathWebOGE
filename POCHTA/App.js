@@ -22,6 +22,13 @@ function getObjectPension(arrayOfPension){
 
     const arrayOfGIRC = newObject.GIRC;
     const arrayOfAllPayments = newObject.allPayments;
+
+    let q = 0;
+    arrayOfGIRC.forEach(el => {
+        if (el !== 0) q += 1
+    })
+    
+    newObject.countGIRC = q;
     newObject.summOfGIRC = sumOfArray(arrayOfGIRC);
     newObject.summOfAllPayments = sumOfArray(arrayOfAllPayments);
 
@@ -61,20 +68,25 @@ function totalSums(arrayOfObjectPensions){
     const arrayOfPensions = [];
     const arrayOfGIRC = [];
     const arrayOfAllPayments = [];
+    let lenghtGIRC = 0;
 
     arrayOfObjectPensions.forEach(object => {
         const pension = object.pension;
         const summOfGIRC = object.summOfGIRC;
         const summOfAllPayments = object.summOfAllPayments;
+        const lenghtOfGIRC = object.countGIRC;
+        
 
         arrayOfPensions.push(pension);
         arrayOfGIRC.push(summOfGIRC);
         arrayOfAllPayments.push(summOfAllPayments);
+        lenghtGIRC += lenghtOfGIRC;
     })
 
     const totalPension = sumOfArray(arrayOfPensions);
     const totalGIRC = sumOfArray(arrayOfGIRC);
     const totalAllPayments = sumOfArray(arrayOfAllPayments);
 
-    return [totalPension, totalGIRC, totalAllPayments];
+    return [totalPension, totalGIRC, totalAllPayments, lenghtGIRC];
+
 }

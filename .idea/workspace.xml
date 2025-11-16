@@ -5,49 +5,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79c24b4a-a3e1-4cc2-95f5-a78089a11fd2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/MathWeb" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathWeb/JS/Base.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/Base.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathWeb/JS/ChangeLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/ChangeLayout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathWeb/JS/CurrProblem.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/CurrProblem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathWeb/JS/CurrSubject.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/CurrSubject.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathWeb/JS/DaysBeforeExam.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/DaysBeforeExam.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathWeb/JS/EndVariant.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/EndVariant.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathWeb/JS/Render.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/Render.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathWeb/JS/SaveProblem.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/SaveProblem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathWeb/JS/Stress.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/Stress.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathWeb/JS/Time.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/Time.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathWeb/JS/ViewingVariant.js" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/JS/ViewingVariant.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathWeb/img/11.90.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathWeb/img/11.91.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathWeb/img/11.92.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathWeb/img/11.93.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathWeb/img/11.94.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wordle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Wordle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathWeb/MathWeb/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MathWeb/MathWeb/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POCHTA/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/POCHTA/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POCHTA/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/POCHTA/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POCHTA/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/POCHTA/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/123.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/456.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2TL4ugROzpIWOSgEerhL3fLXeOY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/ITMO/kege/webium1.py"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Downloads/dz.py&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
+    ]
   }
-}]]></component>
-  <component name="RunManager" selected="Python.webium1">
+}</component>
+  <component name="RunManager" selected="Python.456">
+    <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/123.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="14_sh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,6 +89,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Desktop/ITMO/kegePrac/14_sh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="456" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/456.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mat2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Desktop/mat2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,6 +162,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.456" />
+        <item itemvalue="Python.123" />
+        <item itemvalue="Python.mat2" />
         <item itemvalue="Python.webium1" />
         <item itemvalue="Python.14_sh" />
       </list>

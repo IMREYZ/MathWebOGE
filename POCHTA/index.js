@@ -68,8 +68,8 @@ showResultBtn.addEventListener('click', () => {
 
 
 
-    const [totalPension, totalGIRC, totalAllPayments] = totalSums(arrayOfObjectPensions);
-    summResultContainer.innerHTML = `Общая сумма пенсии: ${totalPension}, Общая сумма ГИРЦ: ${totalGIRC}, Общая сумма: ${totalAllPayments}`;
+    const [totalPension, totalGIRC, totalAllPayments, lenghtGIRC] = totalSums(arrayOfObjectPensions);
+    summResultContainer.innerHTML = `Общая сумма пенсии: ${totalPension}, Общая сумма ГИРЦ: ${totalGIRC}, Общая сумма: ${totalAllPayments}, кол-во ГИРЦ: ${lenghtGIRC}`;
 })
 
 
